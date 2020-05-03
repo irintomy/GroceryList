@@ -1,0 +1,93 @@
+
+{
+    "grocery":[
+        {
+            "serialNo":"SerialNo",
+            "name":"Name",
+            "quantity":"Qty",
+            "unit":"Unit",
+            "department":"Department",
+            "notes":"Notes"
+        },
+        {
+            "serialNo":"1",
+            "name":"Rice",
+            "quantity":"10",
+            "unit":"kg",
+            "department":"Grains",
+            "notes":"Pavizham Rice"
+        },
+        {
+            "serialNo":"2",
+            "name":"Bread",
+            "quantity":"5",
+            "unit":"loafs",
+            "department":"Bakery",
+            "notes":"Freshly Baked"
+        },
+        {
+            "serialNo":"3",
+            "name":"Cooking Oil",
+            "quantity":"4",
+            "unit":"litre",
+            "department":"Oil",
+            "notes":"Sunflower Oil"
+        },
+        {
+            "serialNo":"4",
+            "name":"Milk",
+            "quantity":"1",
+            "unit":"litre",
+            "department":"Dairy",
+            "notes":"Milma"
+        },
+        {
+            "serialNo":"5",
+            "name":"Tea",
+            "quantity":"4",
+            "unit":"kg",
+            "department":"Beverages",
+            "notes":"LiptonGreen Tea"
+        },
+        {
+            "serialNo":"6",
+            "name":"Chicken",
+            "quantity":"2",
+            "unit":"kg",
+            "department":"Meat",
+            "notes":"Shinned and chopped"
+        },
+        {
+            "serialNo":"7",
+            "name":"Oranges",
+            "quantity":"4",
+            "unit":"kg",
+            "department":"Fruits",
+            "notes":"Fresh and ripe"
+        },
+        {
+            "serialNo":"8",
+            "name":"Soap",
+            "quantity":"5",
+            "unit":"units",
+            "department":"Toiletries",
+            "notes":"Pears oil clear glow"
+        },
+        {
+            "serialNo":"9",
+            "name":"Chips",
+            "quantity":"7",
+            "unit":"packets",
+            "department":"Snacks",
+            "notes":"Potato Chips"
+        },
+        {
+            "serialNo":"10",
+            "name":"Toothpaste",
+            "quantity":"100",
+            "unit":"gram",
+            "department":"Tolietries",
+            "notes":"Colgate Fresh"
+        }
+    ]
+}
